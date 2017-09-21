@@ -24,6 +24,9 @@ Common Sites
 ### 4X4
 [Classic Broncos: Dana 44 Drum to Disk](http://classicbroncos.com/disc-f150.shtml)
 
+### 4x2
+[FTE: power-steering-disk-brakes-2wd-65-72](https://www.ford-trucks.com/articles/power-steering-disk-brakes-2wd-65-72/)
+
 ## Power Steering
 ### 4x4
 [FTE: Crazy96863's Power Steering Box Conversion](https://www.ford-trucks.com/forums/1144182-steering-box-conversion-pics.html) Photos broken : /
@@ -32,6 +35,8 @@ Common Sites
 [FTE: tpdaniels' 72-f-250-4x4-power-steering](https://www.ford-trucks.com/forums/1019742-72-f-250-4x4-power-steering-instructions-with-pictures.html)
 
 ### 4x2
+[FTE: power-steering-disk-brakes-2wd-65-72](https://www.ford-trucks.com/articles/power-steering-disk-brakes-2wd-65-72/)
 
 ### 4x2/4x4
+[Bullet Proof Steering: TieRods and Drag Links](http://bulletproofsteering.com/steeringsystems.html)
 
